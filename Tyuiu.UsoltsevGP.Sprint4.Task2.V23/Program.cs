@@ -11,8 +11,8 @@ namespace Tyuiu.UsoltsevGP.Sprint4.Task2.V23
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #4                                                               *");
         Console.WriteLine("* Тема: Одномерные массивы (статический ввод)                             *");
-        Console.WriteLine("* Задание #0                                                              *");
-        Console.WriteLine("* Вариант #17                                                             *");
+        Console.WriteLine("* Задание #2                                                              *");
+        Console.WriteLine("* Вариант #23                                                             *");
         Console.WriteLine("* Выполнил: Усольцев Глеб Павлович | РППб-25-1                            *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");

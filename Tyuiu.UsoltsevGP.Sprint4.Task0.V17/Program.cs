@@ -39,6 +39,6 @@ namespace Tyuiu.UsoltsevGP.Sprint4.Task0.V17
         Console.WriteLine("Сумма четных элеменетов массива = " + ds.GetSumEvenArrEl(numsArray));
 
         Console.ReadLine();
+        }
     }
-}
 }
