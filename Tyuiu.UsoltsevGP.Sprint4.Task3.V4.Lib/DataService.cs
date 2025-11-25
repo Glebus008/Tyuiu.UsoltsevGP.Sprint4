@@ -6,7 +6,7 @@ namespace Tyuiu.UsoltsevGP.Sprint4.Task3.V4.Lib
         public int Calculate(int[,] array)
         {
             int rows = array.GetUpperBound(0) + 1; // кол-во строк
-            int columns = array.Length / rows;   // кол-во столбцов
+            int columns = array.Length / rows;   // кол-во столбцов 
             int minim = 9;
             for (int i = 0; i < rows; i++)
             {
