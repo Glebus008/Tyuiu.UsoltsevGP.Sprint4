@@ -6,7 +6,6 @@ namespace Tyuiu.UsoltsevGP.Sprint4.Task1.V28
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-
             Console.Title = "Спринт #4 | Выполнил: Усольцев Г. П. | РППб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
